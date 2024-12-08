@@ -1,0 +1,4 @@
+- pipeline: utecxumajb
+  refs:
+  - refs/heads/master
+  on: CLICK
